@@ -126,6 +126,6 @@ print("============================================" + Fore.RESET)
 
 os.system("git add *")
 os.system('git commit -m "' + Device_name + ' added"')
-os.system("git push --set-upstream origin main")
+os.system("git push")
 #os.system("git pull")
 
