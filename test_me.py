@@ -120,7 +120,7 @@ with open('device_list_s1.txt', 'a') as f:
 print("================== Stress Test Done ====================")
 
 print(Fore.GREEN + "============================================")
-print("PASSWORD: Aiub@123456")
+print("PASSWORD: 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")
 print("============================================" + Fore.RESET)
 
 
