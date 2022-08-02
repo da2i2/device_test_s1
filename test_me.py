@@ -118,6 +118,11 @@ with open('device_list_s1.txt', 'a') as f:
 
 print("================== Stress Test Done ====================")
 
+print(Fore.GREEN + "============================================")
+print("PASSWORD: Aiub@123456")
+print("============================================" + Fore.RESET)
+
+
 os.system("git add *")
 os.system('git commit -m "' + Device_name + ' added"')
 
